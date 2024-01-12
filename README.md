@@ -6,7 +6,7 @@
 
 1. Homework: HTML Lists
 2. Homework: HTML Home Page & Links
-3. Homework: HTML Tables
+3. Homework: HTML Table
 4. Homework: HTML Lunch Menu
 5. Homework: HTML Farming Home Page
 6. Homework: CSS Box
